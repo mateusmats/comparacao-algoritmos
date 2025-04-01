@@ -67,11 +67,11 @@ public class NossoVetor{
 
     //toda classe java tem o método toString, que é chamado automaticamente quando um objeto é concatenado numa String. Então vamos sobrescrevê-lo para, quando printarmos um vetor, ele não nos dê o endereço de memória, mas os dados do vetor.
     public String toString(){
-        String s = "ocupacao = " + ocupacao + "\n" + "tamanho = " + vetor.length + "\n";
-        for(int i=0; i<ocupacao; i++){
-            s += vetor[i] + ", ";
+        String s = "[" + vetor[0];
+        for(int i=1; i<ocupacao; i++){
+            s += ", " + vetor[i];
         }
-        return s + "\n";
+        return s + "]" + "\n";
     }
 
 
@@ -90,8 +90,8 @@ public class NossoVetor{
                 contador++;
                 if(vetor[x] == numeroPesquisado){
                     // número encontrado \o/
-                    System.out.println("Contador Busca Linear: " + contador);
-                    return x;
+                    //return x;
+                    return contador;
                 }
             }
         }
@@ -110,8 +110,8 @@ public class NossoVetor{
             if(valor < numeroPesquisado) baixo = meio + 1;
             else if(valor > numeroPesquisado) alto = meio - 1;
             else{
-                System.out.println("Contador Busca Binária, apenas: " + contador);
-                return meio;
+                //return meio;
+                return contador;
             }
         }
 
@@ -128,6 +128,7 @@ public class NossoVetor{
     }
 
     public long bubbleSort(){
+    // Os contadores estão mesmo na posição certa????
         long contador = 0;
         for(int i=1; i < vetor.length; i++){
             for (int j=0; j < vetor.length-i; j++){
@@ -144,6 +145,7 @@ public class NossoVetor{
     }
 
     public long selectionSort() {
+     // Os contadores estão mesmo na posição certa????
         long contador = 0;
         for (int i = 0; i < vetor.length - 1; i++) {
             int min = i;
@@ -164,6 +166,7 @@ public class NossoVetor{
     }
 
     public long insertionSort() {
+    // Os contadores estão mesmo na posição certa????
         long contador = 0;
         for (int i = 1; i < vetor.length; i++) {
             long x = vetor[i];
@@ -173,6 +176,7 @@ public class NossoVetor{
                 contador++;
                 contador++;
             }
+            //contador++; será que precisa desse contador aqui????
             vetor[j + 1] = x;
             
         }
