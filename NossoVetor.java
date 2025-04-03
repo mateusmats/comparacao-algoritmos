@@ -122,7 +122,6 @@ public class NossoVetor {
     }
 
     public long bubbleSort() {
-        // Os contadores estão mesmo na posição certa????
         long contador = 0;
         for (int i = 1; i < vetor.length; i++) {
             for (int j = 0; j < vetor.length - i; j++) {
@@ -158,7 +157,6 @@ public class NossoVetor {
     }
 
     public long insertionSort() {
-        // Os contadores estão mesmo na posição certa????
         long contador = 0;
         for (int i = 1; i < vetor.length; i++) {
             long x = vetor[i];
