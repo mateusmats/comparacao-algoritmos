@@ -1,0 +1,70 @@
+Algoritmos de Ordenação:
+Comparações bubble sort: 799983443683
+Comparações selection sort: 320011677778
+Comparações insertion sort: 319990029121
+-------------------
+
+Algoritmos de Busca:
+Custo busca binária, apenas: 18
+Custo busca binária + custo de ordenação: 319990029139
+Custo busca linear: 107803
+--------------------
+
+Algoritmos de Ordenação:
+Comparações bubble sort: 800303422117
+Comparações selection sort: 320011720769
+Comparações insertion sort: 320203348077
+-------------------
+
+Algoritmos de Busca:
+Custo busca binária, apenas: 18
+Custo busca binária + custo de ordenação: 320203348095
+Custo busca linear: 432726
+--------------------
+
+Algoritmos de Ordenação:
+Comparações bubble sort: 799315881247
+Comparações selection sort: 320011730915
+Comparações insertion sort: 319544987497
+-------------------
+
+Algoritmos de Busca:
+Custo busca binária, apenas: 20
+Custo busca binária + custo de ordenação: 319544987517
+Custo busca linear: 544823
+--------------------
+
+Algoritmos de Ordenação:
+Comparações bubble sort: 800476040947
+Comparações selection sort: 320011718908
+Comparações insertion sort: 320318427297
+-------------------
+
+Algoritmos de Busca:
+Custo busca binária, apenas: 19
+Custo busca binária + custo de ordenação: 320318427316
+Custo busca linear: 617550
+--------------------
+
+Algoritmos de Ordenação:
+Comparações bubble sort: 800149551505
+Comparações selection sort: 320011709206
+Comparações insertion sort: 320100767669
+-------------------
+
+Algoritmos de Busca:
+Custo busca binária, apenas: 18
+Custo busca binária + custo de ordenação: 320100767687
+Custo busca linear: 540617
+--------------------
+
+Lista Bubble: [799983443683, 800303422117, 799315881247, 800476040947, 800149551505]
+
+Lista Selection: [320011677778, 320011720769, 320011730915, 320011718908, 320011709206]
+
+Lista Insertion: [319990029121, 320203348077, 319544987497, 320318427297, 320100767669]
+
+Lista Busca Linear: [107803, 432726, 544823, 617550, 540617]
+
+Lista Busca Binaria: [319990029139, 320203348095, 319544987517, 320318427316, 320100767687]
+
