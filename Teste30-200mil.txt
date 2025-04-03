@@ -1,0 +1,370 @@
+Algoritmos de Ordenação:
+Comparações bubble sort: 49931936386
+Comparações selection sort: 20002651370
+Comparações insertion sort: 19954890923
+-------------------
+
+Algoritmos de Busca:
+Custo busca binária, apenas: 18
+Custo busca binária + custo de ordenação: 19954890941
+Custo busca linear: 59996
+--------------------
+
+Algoritmos de Ordenação:
+Comparações bubble sort: 50050948009
+Comparações selection sort: 20002658856
+Comparações insertion sort: 20034232005
+-------------------
+
+Algoritmos de Busca:
+Custo busca binária, apenas: 16
+Custo busca binária + custo de ordenação: 20034232021
+Custo busca linear: 36049
+--------------------
+
+Algoritmos de Ordenação:
+Comparações bubble sort: 49904199871
+Comparações selection sort: 20002635676
+Comparações insertion sort: 19936399913
+-------------------
+
+Algoritmos de Busca:
+Custo busca binária, apenas: 16
+Custo busca binária + custo de ordenação: 19936399929
+Custo busca linear: 6585
+--------------------
+
+Algoritmos de Ordenação:
+Comparações bubble sort: 49976440204
+Comparações selection sort: 20002654280
+Comparações insertion sort: 19984560135
+-------------------
+
+Algoritmos de Busca:
+Custo busca binária, apenas: 18
+Custo busca binária + custo de ordenação: 19984560153
+Custo busca linear: 165733
+--------------------
+
+Algoritmos de Ordenação:
+Comparações bubble sort: 50028261829
+Comparações selection sort: 20002661920
+Comparações insertion sort: 20019107885
+-------------------
+
+Algoritmos de Busca:
+Custo busca binária, apenas: 17
+Custo busca binária + custo de ordenação: 20019107902
+Custo busca linear: 116451
+--------------------
+
+Algoritmos de Ordenação:
+Comparações bubble sort: 49902876337
+Comparações selection sort: 20002657230
+Comparações insertion sort: 19935517557
+-------------------
+
+Algoritmos de Busca:
+Custo busca binária, apenas: 17
+Custo busca binária + custo de ordenação: 19935517574
+Custo busca linear: 42093
+--------------------
+
+Algoritmos de Ordenação:
+Comparações bubble sort: 49991016478
+Comparações selection sort: 20002649736
+Comparações insertion sort: 19994277651
+-------------------
+
+Algoritmos de Busca:
+Custo busca binária, apenas: 15
+Custo busca binária + custo de ordenação: 19994277666
+Custo busca linear: 132733
+--------------------
+
+Algoritmos de Ordenação:
+Comparações bubble sort: 49954375411
+Comparações selection sort: 20002658664
+Comparações insertion sort: 19969850273
+-------------------
+
+Algoritmos de Busca:
+Custo busca binária, apenas: 17
+Custo busca binária + custo de ordenação: 19969850290
+Custo busca linear: 7150
+--------------------
+
+Algoritmos de Ordenação:
+Comparações bubble sort: 50068474312
+Comparações selection sort: 20002665405
+Comparações insertion sort: 20045916207
+-------------------
+
+Algoritmos de Busca:
+Custo busca binária, apenas: 17
+Custo busca binária + custo de ordenação: 20045916224
+Custo busca linear: 16668
+--------------------
+
+Algoritmos de Ordenação:
+Comparações bubble sort: 50061294637
+Comparações selection sort: 20002651843
+Comparações insertion sort: 20041129757
+-------------------
+
+Algoritmos de Busca:
+Custo busca binária, apenas: 18
+Custo busca binária + custo de ordenação: 20041129775
+Custo busca linear: 55360
+--------------------
+
+Algoritmos de Ordenação:
+Comparações bubble sort: 49938212152
+Comparações selection sort: 20002655064
+Comparações insertion sort: 19959074767
+-------------------
+
+Algoritmos de Busca:
+Custo busca binária, apenas: 18
+Custo busca binária + custo de ordenação: 19959074785
+Custo busca linear: 35852
+--------------------
+
+Algoritmos de Ordenação:
+Comparações bubble sort: 50077549309
+Comparações selection sort: 20002652655
+Comparações insertion sort: 20051966205
+-------------------
+
+Algoritmos de Busca:
+Custo busca binária, apenas: 12
+Custo busca binária + custo de ordenação: 20051966217
+Custo busca linear: 141154
+--------------------
+
+Algoritmos de Ordenação:
+Comparações bubble sort: 50006292847
+Comparações selection sort: 20002664225
+Comparações insertion sort: 20004461897
+-------------------
+
+Algoritmos de Busca:
+Custo busca binária, apenas: 18
+Custo busca binária + custo de ordenação: 20004461915
+Custo busca linear: 180834
+--------------------
+
+Algoritmos de Ordenação:
+Comparações bubble sort: 50058454150
+Comparações selection sort: 20002648150
+Comparações insertion sort: 20039236099
+-------------------
+
+Algoritmos de Busca:
+Custo busca binária, apenas: 18
+Custo busca binária + custo de ordenação: 20039236117
+Custo busca linear: 186496
+--------------------
+
+Algoritmos de Ordenação:
+Comparações bubble sort: 50025685069
+Comparações selection sort: 20002640307
+Comparações insertion sort: 20017390045
+-------------------
+
+Algoritmos de Busca:
+Custo busca binária, apenas: 17
+Custo busca binária + custo de ordenação: 20017390062
+Custo busca linear: 126582
+--------------------
+
+Algoritmos de Ordenação:
+Comparações bubble sort: 50021243494
+Comparações selection sort: 20002653402
+Comparações insertion sort: 20014428995
+-------------------
+
+Algoritmos de Busca:
+Custo busca binária, apenas: 18
+Custo busca binária + custo de ordenação: 20014429013
+Custo busca linear: 69235
+--------------------
+
+Algoritmos de Ordenação:
+Comparações bubble sort: 49999779289
+Comparações selection sort: 20002633749
+Comparações insertion sort: 20000119525
+-------------------
+
+Algoritmos de Busca:
+Custo busca binária, apenas: 17
+Custo busca binária + custo de ordenação: 20000119542
+Custo busca linear: 16270
+--------------------
+
+Algoritmos de Ordenação:
+Comparações bubble sort: 50031819655
+Comparações selection sort: 20002645920
+Comparações insertion sort: 20021479769
+-------------------
+
+Algoritmos de Busca:
+Custo busca binária, apenas: 17
+Custo busca binária + custo de ordenação: 20021479786
+Custo busca linear: 135243
+--------------------
+
+Algoritmos de Ordenação:
+Comparações bubble sort: 49996960096
+Comparações selection sort: 20002668008
+Comparações insertion sort: 19998240063
+-------------------
+
+Algoritmos de Busca:
+Custo busca binária, apenas: 14
+Custo busca binária + custo de ordenação: 19998240077
+Custo busca linear: 57672
+--------------------
+
+Algoritmos de Ordenação:
+Comparações bubble sort: 49999076260
+Comparações selection sort: 20002644057
+Comparações insertion sort: 19999650839
+-------------------
+
+Algoritmos de Busca:
+Custo busca binária, apenas: 17
+Custo busca binária + custo de ordenação: 19999650856
+Custo busca linear: 27368
+--------------------
+
+Algoritmos de Ordenação:
+Comparações bubble sort: 49939060627
+Comparações selection sort: 20002648183
+Comparações insertion sort: 19959640417
+-------------------
+
+Algoritmos de Busca:
+Custo busca binária, apenas: 15
+Custo busca binária + custo de ordenação: 19959640432
+Custo busca linear: 36189
+--------------------
+
+Algoritmos de Ordenação:
+Comparações bubble sort: 49972542646
+Comparações selection sort: 20002639975
+Comparações insertion sort: 19981961763
+-------------------
+
+Algoritmos de Busca:
+Custo busca binária, apenas: 15
+Custo busca binária + custo de ordenação: 19981961778
+Custo busca linear: 178750
+--------------------
+
+Algoritmos de Ordenação:
+Comparações bubble sort: 49986268390
+Comparações selection sort: 20002638706
+Comparações insertion sort: 19991112259
+-------------------
+
+Algoritmos de Busca:
+Custo busca binária, apenas: 18
+Custo busca binária + custo de ordenação: 19991112277
+Custo busca linear: 123792
+--------------------
+
+Algoritmos de Ordenação:
+Comparações bubble sort: 50017820218
+Comparações selection sort: 20002655913
+Comparações insertion sort: 20012146811
+-------------------
+
+Algoritmos de Busca:
+Custo busca binária, apenas: 18
+Custo busca binária + custo de ordenação: 20012146829
+Custo busca linear: 166532
+--------------------
+
+Algoritmos de Ordenação:
+Comparações bubble sort: 50077616797
+Comparações selection sort: 20002646484
+Comparações insertion sort: 20052011197
+-------------------
+
+Algoritmos de Busca:
+Custo busca binária, apenas: 16
+Custo busca binária + custo de ordenação: 20052011213
+Custo busca linear: 67501
+--------------------
+
+Algoritmos de Ordenação:
+Comparações bubble sort: 49936571227
+Comparações selection sort: 20002655284
+Comparações insertion sort: 19957980817
+-------------------
+
+Algoritmos de Busca:
+Custo busca binária, apenas: 15
+Custo busca binária + custo de ordenação: 19957980832
+Custo busca linear: 134715
+--------------------
+
+Algoritmos de Ordenação:
+Comparações bubble sort: 50019517288
+Comparações selection sort: 20002649619
+Comparações insertion sort: 20013278191
+-------------------
+
+Algoritmos de Busca:
+Custo busca binária, apenas: 16
+Custo busca binária + custo de ordenação: 20013278207
+Custo busca linear: 66837
+--------------------
+
+Algoritmos de Ordenação:
+Comparações bubble sort: 50048585554
+Comparações selection sort: 20002657093
+Comparações insertion sort: 20032657035
+-------------------
+
+Algoritmos de Busca:
+Custo busca binária, apenas: 18
+Custo busca binária + custo de ordenação: 20032657053
+Custo busca linear: 18488
+--------------------
+
+Algoritmos de Ordenação:
+Comparações bubble sort: 49973299741
+Comparações selection sort: 20002662677
+Comparações insertion sort: 19982466493
+-------------------
+
+Algoritmos de Busca:
+Custo busca binária, apenas: 16
+Custo busca binária + custo de ordenação: 19982466509
+Custo busca linear: 29743
+--------------------
+
+Algoritmos de Ordenação:
+Comparações bubble sort: 49944526606
+Comparações selection sort: 20002648538
+Comparações insertion sort: 19963284403
+-------------------
+
+Algoritmos de Busca:
+Custo busca binária, apenas: 18
+Custo busca binária + custo de ordenação: 19963284421
+Custo busca linear: 78334
+--------------------
+
+Lista Bubble: [49931936386, 50050948009, 49904199871, 49976440204, 50028261829, 49902876337, 49991016478, 49954375411, 50068474312, 50061294637, 49938212152, 50077549309, 50006292847, 50058454150, 50025685069, 50021243494, 49999779289, 50031819655, 49996960096, 49999076260, 49939060627, 49972542646, 49986268390, 50017820218, 50077616797, 49936571227, 50019517288, 50048585554, 49973299741, 49944526606]
+
+Lista Selection: [20002651370, 20002658856, 20002635676, 20002654280, 20002661920, 20002657230, 20002649736, 20002658664, 20002665405, 20002651843, 20002655064, 20002652655, 20002664225, 20002648150, 20002640307, 20002653402, 20002633749, 20002645920, 20002668008, 20002644057, 20002648183, 20002639975, 20002638706, 20002655913, 20002646484, 20002655284, 20002649619, 20002657093, 20002662677, 20002648538]
+
+Lista Insertion: [19954890923, 20034232005, 19936399913, 19984560135, 20019107885, 19935517557, 19994277651, 19969850273, 20045916207, 20041129757, 19959074767, 20051966205, 20004461897, 20039236099, 20017390045, 20014428995, 20000119525, 20021479769, 19998240063, 19999650839, 19959640417, 19981961763, 19991112259, 20012146811, 20052011197, 19957980817, 20013278191, 20032657035, 19982466493, 19963284403]
+
+Lista Busca Linear: [59996, 36049, 6585, 165733, 116451, 42093, 132733, 7150, 16668, 55360, 35852, 141154, 180834, 186496, 126582, 69235, 16270, 135243, 57672, 27368, 36189, 178750, 123792, 166532, 67501, 134715, 66837, 18488, 29743, 78334]
+
+Lista Busca Binaria: [19954890941, 20034232021, 19936399929, 19984560153, 20019107902, 19935517574, 19994277666, 19969850290, 20045916224, 20041129775, 19959074785, 20051966217, 20004461915, 20039236117, 20017390062, 20014429013, 20000119542, 20021479786, 19998240077, 19999650856, 19959640432, 19981961778, 19991112277, 20012146829, 20052011213, 19957980832, 20013278207, 20032657053, 19982466509, 19963284421]
+

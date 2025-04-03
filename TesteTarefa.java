@@ -4,7 +4,7 @@ public class TesteTarefa {
 
     public static void main(String[] args) {
         NossoVetor v;
-        int tamanhoDoVetor = 100000; // A Machion pediu 100mil, 200mil, 400mil, 800mil e 1,6milhão.
+        int tamanhoDoVetor = 200000; // A Machion pediu 100mil, 200mil, 400mil, 800mil e 1,6milhão.
         int quantidadeDeIteracoes = 30; // A Machion pediu 10 iterações para 1,6milhão e 30 para o resto.
 
         // Estou estocando o custo de cada algoritmo numa lista. Como são 3 algoritmos, temos 3 listas:
