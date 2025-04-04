@@ -1,0 +1,38 @@
+Algoritmos de Ordenação:
+Comparações bubble sort: 799935800464
+Comparações selection sort: 320011698317
+Comparações insertion sort: 319958266975
+-------------------
+
+Algoritmos de Busca:
+Custo busca binária, apenas: 19
+Custo busca binária + custo de ordenação: 319958266994
+Custo busca linear: 39315
+--------------------
+
+Algoritmos de Ordenação:
+Comparações bubble sort: 800283017161
+Comparações selection sort: 320011748556
+Comparações insertion sort: 320189744773
+-------------------
+
+Algoritmos de Busca:
+Custo busca binária, apenas: 20
+Custo busca binária + custo de ordenação: 320189744793
+Custo busca linear: 733709
+--------------------
+
+Algoritmos de Ordenação:
+Comparações bubble sort: 800126022157
+Comparações selection sort: 320011703049
+Comparações insertion sort: 320085081437
+-------------------
+
+Algoritmos de Busca:
+Custo busca binária, apenas: 19
+Custo busca binária + custo de ordenação: 320085081456
+Custo busca linear: 708056
+--------------------
+
+Algoritmos de Ordenação:
+Comparações bubble sort: 800053781089
